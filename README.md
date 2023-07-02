@@ -11,7 +11,7 @@
 
 Use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
-#### A general voerview of the data worked with
+#### A general overview of the data worked with
 ![Overview](https://github.com/beccasolomon22/CryptoClustering/blob/main/Images/Overview.png) 
 
 ## Tools Used
