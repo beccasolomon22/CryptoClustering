@@ -25,17 +25,21 @@ Use your knowledge of Python and unsupervised learning to predict if cryptocurre
 ## Original Scaled
 
 Using the original scaled data, created an elbow curve to see what is the optimal number of clusters
+
 ![reg_elbow](https://github.com/beccasolomon22/CryptoClustering/blob/main/Images/Reg_Elbow.png)
 
 With an optimal value of 4 clusters, used KMeans to model, fit, and predict (with the Regular Scaled Data) to group the cryptocurrencies into 4 clusters
+
 ![reg_clusters](https://github.com/beccasolomon22/CryptoClustering/blob/main/Images/Reg_Clusters.png) 
 
 ## PCA Scaled
 
 Using the PCA scaled data, created an elbow curve to see what is the optimal number of clusters
+
 ![pca_elbow](https://github.com/beccasolomon22/CryptoClustering/blob/main/Images/PCA_Elbow.png) 
 
 With an optimal value of 4 clusters, used KMeans to model, fit, and predict (with the PCA Scaled Data) to group the cryptocurrencies into 4 clusters
+
 ![pca_clusters](https://github.com/beccasolomon22/CryptoClustering/blob/main/Images/PCA_Clusters.png) 
 
 ## Comparison
